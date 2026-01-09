@@ -1,0 +1,47 @@
+========================================
+COMMANDES A EXECUTER DANS VOTRE TERMINAL
+========================================
+
+Ouvrez Git Bash, PowerShell, ou CMD dans ce dossier et executez:
+
+1. git init
+
+2. git add .
+
+3. git commit -m "first commit"
+
+4. git branch -M main
+
+5. git remote add origin https://github.com/jdabachine3378-svg/TP-6-Conception-d-une-API-.git
+
+6. git push -u origin main
+
+
+========================================
+OU DOUBLE-CLIQUEZ SUR:
+========================================
+
+push-to-github.bat
+
+
+========================================
+AUTHENTIFICATION GITHUB
+========================================
+
+Lors du push, utilisez:
+- Username: jdabachine3378-svg  
+- Password: Personal Access Token (PAS votre mot de passe)
+
+Pour creer un token:
+https://github.com/settings/tokens
+> Generate new token (classic)
+> Cocher "repo"
+> Generate et copier le token
+
+
+========================================
+VERIFICATION
+========================================
+
+https://github.com/jdabachine3378-svg/TP-6-Conception-d-une-API-
+
