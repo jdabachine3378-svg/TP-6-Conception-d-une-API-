@@ -6,7 +6,7 @@
 
 API RESTful développée avec Node.js, Express, TypeScript et MongoDB pour la gestion d'une bibliothèque.
 
-## 📋 Fonctionnalités
+##  Fonctionnalités
 
 - **Gestion des auteurs** : CRUD complet pour les auteurs
 - **Gestion des livres** : CRUD complet pour les livres avec référence aux auteurs
@@ -17,7 +17,7 @@ API RESTful développée avec Node.js, Express, TypeScript et MongoDB pour la ge
 - **Pagination** : Support de la pagination pour toutes les listes
 - **Filtres et tri** : Recherche et tri sur les ressources
 
-## 🚀 Installation
+##  Installation
 
 ### Prérequis
 
@@ -125,7 +125,7 @@ http://localhost:3000/api/v1
 - `PUT /emprunts/:id` - Mettre à jour un emprunt (authentification requise)
 - `DELETE /emprunts/:id` - Supprimer un emprunt (admin uniquement)
 
-## 🔐 Authentification
+##  Authentification
 
 L'API utilise JWT (JSON Web Tokens) pour l'authentification.
 
@@ -192,7 +192,7 @@ Content-Type: application/json
 - `npm test` - Lance les tests
 - `npm run test:watch` - Lance les tests en mode watch
 
-## 🔒 Sécurité
+##  Sécurité
 
 - **Helmet** : Ajoute des en-têtes HTTP de sécurité
 - **CORS** : Gère les requêtes Cross-Origin
@@ -200,7 +200,7 @@ Content-Type: application/json
 - **JWT** : Authentification sécurisée
 - **Validation** : Validation des données avec Joi
 
-## 📦 Technologies utilisées
+##  Technologies utilisées
 
 - **Node.js** - Runtime JavaScript
 - **Express** - Framework web
@@ -213,11 +213,9 @@ Content-Type: application/json
 - **CORS** - Gestion CORS
 - **Express Rate Limit** - Limitation de débit
 
-## 📄 Licence
 
-ISC
 
 ## 👤 Auteur
-
+DABACHINE JAMILA
 Développé dans le cadre d'un TP sur la conception d'une API RESTful.
 
